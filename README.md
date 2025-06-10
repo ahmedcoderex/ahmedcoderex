@@ -17,35 +17,34 @@
 
 ## 🚀 About Me
 
-dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
+**Age:** 20  
+**Role:** Frontend Developer  
+**Brand:** Continuous Learning  
+
+**Skills:**  
+- C++  
+- JavaScript  
+- HTML, CSS, Bootstrap  
+- React  
+- Problem Solving  
+- OOP & Data Structures & Algorithms  
+
+
 
 ## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **230K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+- 🔥 I have a strong foundation in: C++, OOP, Data Structures, Algorithms, and Problem Solving.
+- 👨‍💻 Currently learning JavaScript and React to excel as a Frontend Developer.
+- 📚 Always eager to keep learning and improving my skills.
+- 🧩 I love building clean, user-friendly interfaces.
+- 📦 Passionate about writing clean, readable, and maintainable code.
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,react,vscode,github,git" />
 </p>
 
 ---
@@ -53,26 +52,27 @@ class AhmedAdel {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedcoderex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedcoderex&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
 
-## 🎬 My YouTube Focus
+## 🎬 My Learning Focus
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+- ✅ **Frontend basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++
+- ✅ Building **real-world websites** using HTML, CSS, Bootstrap, and JavaScript
+- ✅ Exploring modern libraries like **React**
+- ✅ Tips for **VS Code** productivity and clean code
+- ✅ Sharing **open-source projects** and walkthroughs
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+▶️ Check it out: [**GitHub - ahmedcoderex**](https://github.com/ahmedcoderex)
 
 ---
 
 
-
 ## ⚡️ Motto
 
-> **“Let’s simplify learning, one line of code at a time.”**
+> **"Creating modern, clean websites with continuous learning and passion."**
+
