@@ -6,9 +6,8 @@
   <a href="https://www.instagram.com/_ahm3da?igsh=amdpMGR5cXRjdzlz
 "><img src="https://img.shields.io/badge/@ahmed.mohamed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@ahmedmohamedcoderex?si=YFG3D4hmg-9VdLbK?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Code_Rex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.facebook.com/share/16PmrXtBMY/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-coderex.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://portfolio-695c6.web.app/"><img src="https://img.shields.io/badge/Website-coderex.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,7 +23,7 @@
 **Skills:**  
 - C++  
 - JavaScript  
-- HTML, CSS, Bootstrap  
+- HTML, CSS, Tailwind  
 - React  
 - Problem Solving  
 - OOP & Data Structures & Algorithms  
