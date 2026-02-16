@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-**Age:** 20  
+**Age:** 21
 **Role:** Frontend Developer  
 **Brand:** Continuous Learning  
 
